@@ -1,5 +1,4 @@
 # logbog-informatikB
-very good logbog for informatik B
 
 **Opgave vedrørende Logbog**
 
