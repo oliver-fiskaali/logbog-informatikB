@@ -105,3 +105,7 @@ Under dette forløb har vi blandt andet set filmen 'Snowden'.
 I dette forløb har vi sat fokus på om overvågning. Det har vi gjort ved både at kigge på hvor meget vi bliver overvåget på nettet, men også individ-overvågning, som er nårder bliver sat fokus på én person. Dette kan både være pga. kriminalitet, at der bliver set på hvad man laver, men det kan også være at man kan blive udsat for overvågning efter at have trykket på et link eller downloaded noget, som man ikke skulle have gjort.
 Vi har også sat stort fokus på passwords sikkerhed. Vi har bl.a. kigget på programmer som simpelthen er lavet til at nedbryde passwords vha. wordlists.
 Dermed har vi også brugt hjemmesiden http://security.org til at tjekke sikkerheden af diverse passwords. Med den er vi kommet frem til at det er forholdsvis sikkert med password på 12+ karakterer da det vil tage en computer 41 år at nedbryde et sådan password.
+
+**SSH-Nøglegenerering**
+Public Key:
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC850b7lY+1MO6LSundZFNlBNXxtws3ZhqDjotejfAXWxdR2f7pKRWtWkDuehqqry07S2MTjecGyeWdVzgyu54cNppIXTWuDY5sIiVLNx6ZOUwYFXD+2OEzXbYfKvktMfDKOh04neqf/tbj/XjfH2axS9xC2ACxgnZX3RfeNaixvK4hdNaj/w3VDmpfvZpyz+NW1dGBYjaICTIVHJ6chmZ/Bag4bFHUUWwpTuFLaFD07IUME9cLt5ZAcU3D7itoXu3QmPcaNvgEb8xyXFCv8WSdV24YObwqlGJaSo50cuQ+jQQwKrhmX0AEd6tKUAvEdTpy9qiTYKdGGxXbRJJeMi0t5duOvAbN4cntq6kVEFIMuEHf3udt+d7kAmv83EJ74hrX+iqNDtttqVJMC8oijI5DvOGF4+dDxkjuYm/S341Gk0GWNEf+9iySm4oMIELhkzu/TIlM5hG1UGKMV/oZtfLOvgNtocBuBfzGeIe35ecdz3hSt7UuUMPCa6kQMZjxP9M= olive@LAPTOP-U0CSOF2V
