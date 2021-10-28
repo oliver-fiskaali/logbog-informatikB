@@ -107,13 +107,20 @@ Vi har også sat stort fokus på passwords sikkerhed. Vi har bl.a. kigget på pr
 Dermed har vi også brugt hjemmesiden http://security.org til at tjekke sikkerheden af diverse passwords. Med den er vi kommet frem til at det er forholdsvis sikkert med password på 12+ karakterer da det vil tage en computer 41 år at nedbryde et sådan password.
 
 **SSH-Nøglegenerering**
+
 Public Key:
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC850b7lY+1MO6LSundZFNlBNXxtws3ZhqDjotejfAXWxdR2f7pKRWtWkDuehqqry07S2MTjecGyeWdVzgyu54cNppIXTWuDY5sIiVLNx6ZOUwYFXD+2OEzXbYfKvktMfDKOh04neqf/tbj/XjfH2axS9xC2ACxgnZX3RfeNaixvK4hdNaj/w3VDmpfvZpyz+NW1dGBYjaICTIVHJ6chmZ/Bag4bFHUUWwpTuFLaFD07IUME9cLt5ZAcU3D7itoXu3QmPcaNvgEb8xyXFCv8WSdV24YObwqlGJaSo50cuQ+jQQwKrhmX0AEd6tKUAvEdTpy9qiTYKdGGxXbRJJeMi0t5duOvAbN4cntq6kVEFIMuEHf3udt+d7kAmv83EJ74hrX+iqNDtttqVJMC8oijI5DvOGF4+dDxkjuYm/S341Gk0GWNEf+9iySm4oMIELhkzu/TIlM5hG1UGKMV/oZtfLOvgNtocBuBfzGeIe35ecdz3hSt7UuUMPCa6kQMZjxP9M= olive@LAPTOP-U0CSOF2V
 
 **Adder og Gates**
+
 AND gate: En AND gate giver kun et output på 1, hvis både A og B også gør.Ved brug af flere inputs end bare A og B gælder det også at de alle skal give et output på 1.
+
 NOT gate: Ved en NOT gate bliver outputtet det modsatte af inputtet. Dvs. at hvis inputtet er 1, vil outputtet være 0.
+
 NAND gate (NOT-AND): En NAND gate gør det modsatte af en AND gate. En NAND gate giver nemlig kun et output på 0, når både A og B giver et input af 0. Ved alle andre kombinationer vil outputtet være 1.
+
 OR gate: Ved en OR gate skal input a eller b være 1 for at outputtet også er det. Outputtet er dermed kun 0, når både a og b også er det.
+
 NOR gate: En NOR gate gør det modsatte af en OR gate. Dermed er outputtet kun 1 når både a og b er 0. Ellers vil outputtet være 0.
+
 Sandhedstabeller:Som vist ovenfor for alle gates, beskriver sandhedstabeller hvordan de forskellige input-kombinationer resultere i output.
