@@ -111,6 +111,12 @@ Dermed har vi også brugt hjemmesiden http://security.org til at tjekke sikkerhe
 Public Key:
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC850b7lY+1MO6LSundZFNlBNXxtws3ZhqDjotejfAXWxdR2f7pKRWtWkDuehqqry07S2MTjecGyeWdVzgyu54cNppIXTWuDY5sIiVLNx6ZOUwYFXD+2OEzXbYfKvktMfDKOh04neqf/tbj/XjfH2axS9xC2ACxgnZX3RfeNaixvK4hdNaj/w3VDmpfvZpyz+NW1dGBYjaICTIVHJ6chmZ/Bag4bFHUUWwpTuFLaFD07IUME9cLt5ZAcU3D7itoXu3QmPcaNvgEb8xyXFCv8WSdV24YObwqlGJaSo50cuQ+jQQwKrhmX0AEd6tKUAvEdTpy9qiTYKdGGxXbRJJeMi0t5duOvAbN4cntq6kVEFIMuEHf3udt+d7kAmv83EJ74hrX+iqNDtttqVJMC8oijI5DvOGF4+dDxkjuYm/S341Gk0GWNEf+9iySm4oMIELhkzu/TIlM5hG1UGKMV/oZtfLOvgNtocBuBfzGeIe35ecdz3hSt7UuUMPCa6kQMZjxP9M= olive@LAPTOP-U0CSOF2V
 
+**Databaser**
+
+"Databasesystemer bruges til at opbevare data, så det er let og hurtigt at finde, gemme og ændre data i systemet."
+![image](https://user-images.githubusercontent.com/62875658/140317648-91e6e3f8-340c-40f1-b97f-43f63653a73f.png)
+
+
 **Adder og Gates**
 
 AND gate: En AND gate giver kun et output på 1, hvis både A og B også gør.Ved brug af flere inputs end bare A og B gælder det også at de alle skal give et output på 1.
