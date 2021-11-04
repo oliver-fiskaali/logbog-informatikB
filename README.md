@@ -104,6 +104,24 @@ import serial import tellopy import sysdef Hej(): if (rxLine == “Ned”): prin
 
 import tellopy import time import keyboarddrone = tellopy.Tello()drone.connect()drone.takeoff() while True: try: while (keyboard.is_pressed(“f”)): drone.down(40)(keyboard.on_release(“f”)):    drone.up(40)  if  (keyboard.is_pressed(“r”)):drone.up(40)  if  (keyboard.on_release(“r”)):    drone.down(40)  if  (key-board.is_pressed(“a”)):drone.left(40)   if   (keyboard.on_release(“a”)):drone.right(40)  if  (keyboard.is_pressed(“d”)):   drone.right(40)  if  (key-board.on_release(“d”)):drone.left(40)   if   (keyboard.is_pressed(“q”)):drone.counterclockwise(100) if (keyboard.on_release(“q”)): drone.clockwise(100)if (keyboard.is_pressed(“e”)): drone.clockwise(100) if (keyboard.on_release(“e”)):drone.counterclockwise(100) if (keyboard.is_pressed(“w”)): drone.forward(50) if(keyboard.on_release(“w”)): drone.backward(50) if (keyboard.is_pressed(“s”)):drone.backward(50)  if  (keyboard.on_release(“s”)):   drone.forward(50)  if(keyboard.is_pressed(“p”)): drone.land() except: drone.land()1
 
+**Målgruppeanalyse og Persona**
+
+Kan bruges til at skabe et overblik og en forståelse for hvem målgruppen og brugeren er. Det er klogt at inddrage følgende data:
+
+Demografi
+
+Geografi
+
+Psykografi
+
+Sociografi
+
+Problemrelaterede detaljer
+
+Opdigtede detaljer
+
+Hvad motiverer personaen? hvad gør den glad, etc.
+
 **Privathed, sikkerhed, passwords:**
 
 Under dette forløb har vi blandt andet set filmen 'Snowden'.
