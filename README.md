@@ -154,5 +154,5 @@ NOR gate: En NOR gate gør det modsatte af en OR gate. Dermed er outputtet kun 1
 
 Sandhedstabeller: Som vist ovenfor for alle gates, beskriver sandhedstabeller hvordan de forskellige input-kombinationer resultere i output.
 
-Og herunder er den adder som vi har udarbejdet under dette forløb:
+Og herunder er den adder som vi har udarbejdet under dette forløb: 
 ![image](https://user-images.githubusercontent.com/62875658/140317306-007d5371-cb0c-4931-bdca-1eb902047aec.png)
