@@ -124,4 +124,6 @@ OR gate: Ved en OR gate skal input a eller b være 1 for at outputtet også er d
 NOR gate: En NOR gate gør det modsatte af en OR gate. Dermed er outputtet kun 1 når både a og b er 0. Ellers vil outputtet være 0.
 
 Sandhedstabeller: Som vist ovenfor for alle gates, beskriver sandhedstabeller hvordan de forskellige input-kombinationer resultere i output.
+
+Og herunder er den adder som vi har udarbejdet under dette forløb:
 ![image](https://user-images.githubusercontent.com/62875658/140317306-007d5371-cb0c-4931-bdca-1eb902047aec.png)
