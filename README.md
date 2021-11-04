@@ -28,6 +28,7 @@ Mine mål: 4/3 * π * 1,253 = 8,177 cm3
 For at lave min kugle har jeg brugt “Sphere”-funktionen. Med “Sphere”-funktionen er der så blevet udarbejdet en kugle ud fra mit valg af radius på 1,25 cm.
 
 Her er resultatet af 3D-printene:
+
 ![image](https://user-images.githubusercontent.com/62875658/140317881-dd3d8577-1b4a-4235-b488-5f15db80cd22.png)
 
 
