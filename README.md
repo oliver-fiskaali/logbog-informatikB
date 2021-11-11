@@ -156,3 +156,18 @@ Sandhedstabeller: Som vist ovenfor for alle gates, beskriver sandhedstabeller hv
 
 Og herunder er den adder som vi har udarbejdet under dette forløb: 
 ![image](https://user-images.githubusercontent.com/62875658/140317306-007d5371-cb0c-4931-bdca-1eb902047aec.png)
+
+# **Maqueen-robot**
+
+Funktioner:
+Line-Right
+Line-Left
+RGB-lys
+Line-Key
+Audio Control
+Speaker
+Accelerometer
+Compass
+Microphone
+Gyroskop
+Infrarød modtager
