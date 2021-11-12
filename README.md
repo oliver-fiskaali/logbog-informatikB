@@ -160,14 +160,25 @@ Og herunder er den adder som vi har udarbejdet under dette forløb:
 # **Maqueen-robot**
 
 Funktioner:
+
 Line-Right
+
 Line-Left
+
 RGB-lys
+
 Line-Key
+
 Audio Control
+
 Speaker
+
 Accelerometer
+
 Compass
+
 Microphone
+
 Gyroskop
+
 Infrarød modtager
