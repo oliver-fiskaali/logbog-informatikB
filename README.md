@@ -159,6 +159,9 @@ Og herunder er den adder som vi har udarbejdet under dette forløb:
 
 # **Maqueen-robot**
 
+**Indledning**
+Programmering og databehandling er en vigtig del af faget informatik. Derfor har vi fået stillet til opgave at udarbejde en robot med en kontroller, så vi kan gennemtæske folkeskoleelever med vores overlegne viden. Vi har udarbejdet en maqueen robot med 2 micro:bits, der er perfekt for den fysiske læring med elektroniske værktøjer. Til at udarbejde vores produkt vil vi naturligvis bruge metoder fra informatik som trelagsmodellen og flowcharts, der skal give os et overblik over hvordan systemet fungerer. Vi har også tænkt os at lave en microbit(arbejde på at lave en) der kan styre andres robotter og dermed ødelægge folkeskoleelevernes dag endnu mere.
+
 Funktioner:
 
 Line-Right
