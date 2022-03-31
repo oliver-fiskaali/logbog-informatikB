@@ -185,3 +185,5 @@ Vi startede Cybersikkerhed-forløbet med et foredrag fra Kristian, som kom fra D
 Han fortæller at cybersikkerhed handler om at gøre det besværligt at hacke noget. Fordi ALT der kan gå på internet eller bluetooth kan hackes. Hertil fortæller han også at cybersikkerhed aldrig har været vigtigere end det er nu. I fremtidige krige kan cybersikkerhed komme til at spille en kæmpe rolle.
 
 Som sagt kom han også for at lave en lille reklame for De Danske Cybermesterskaber. Han havde selv været finalist ved de danske mesterskaber, og han var kommet for at fortælle os om cybersikkerhed, for at give os en lyst til at deltage og blive interesseret i cybersikkerhed. De Danske Cybermesterskaber holdte masser af online træninger og foredrag optil mesterskaberne. Herefter ville man kunne gå online og deltage i kvalifikationsrunden. Herefter fortsætter mesterskaberne efter: Regionale Mesterskaber -> Nationale Mesterskaber -> Bootcamp -> Landsholdet. 
+
+Herefter introducerede han os til hacking ved at bruge tryhackme.com. Her gik han igennem hvordan en opgave derpå kunne se ud.
