@@ -166,6 +166,14 @@ Programmering og databehandling er en vigtig del af faget informatik. Derfor har
 
 **Micro:bit funktioner**
 
+Herunder vil Micro:bittens funktioner blive beskrevet. På billederne vises Micro:bitten forfra og bagfra, med nogle tal på. Disse tal hænger altså sammen med den funktion som de står på. Og de beskrives så i skemaet nedenunder.
+
 Foran:
+
 ![image](https://user-images.githubusercontent.com/62875658/161030271-d07bb2c8-01a9-408d-a36d-ac92bde61dab.png)
+
+Bagpå:
+
+![image](https://user-images.githubusercontent.com/62875658/161030394-ba80648c-adfe-4eb4-a5be-1165f40d31e9.png)
+
 
