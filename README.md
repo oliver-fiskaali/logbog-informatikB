@@ -187,3 +187,11 @@ Han fortæller at cybersikkerhed handler om at gøre det besværligt at hacke no
 Som sagt kom han også for at lave en lille reklame for De Danske Cybermesterskaber. Han havde selv været finalist ved de danske mesterskaber, og han var kommet for at fortælle os om cybersikkerhed, for at give os en lyst til at deltage og blive interesseret i cybersikkerhed. De Danske Cybermesterskaber holdte masser af online træninger og foredrag optil mesterskaberne. Herefter ville man kunne gå online og deltage i kvalifikationsrunden. Herefter fortsætter mesterskaberne efter: Regionale Mesterskaber -> Nationale Mesterskaber -> Bootcamp -> Landsholdet. 
 
 Herefter introducerede han os til hacking ved at bruge tryhackme.com. Her gik han igennem hvordan en opgave derpå kunne se ud.
+
+**Begreber**
+
+Enumeration: Enumeration er processen at udtrække data fra et system. Hertil har man oprettet en forbindelse til et system, hvor man prøver at finde informationer om systemet. Disse informationer vil så bruges til at finde sårbarheder eller svage punkter i systemet som kan udnyttes
+
+Foothold: At etablere et Foothold indebærer at man holder kontrol over et system. Det handler om at holde en position, som kan arbejdes videre fra.
+
+Escalation: Escalation er at udnytte en fejl eller design flaw i et system, til at få adgang til informationer, som normalt er gemt for brugeren.
