@@ -177,3 +177,11 @@ Bagpå:
 ![image](https://user-images.githubusercontent.com/62875658/161030394-ba80648c-adfe-4eb4-a5be-1165f40d31e9.png)
 
 # **Cybersikkerhed**
+
+**Indledning**
+
+Vi startede Cybersikkerhed-forløbet med et foredrag fra Kristian, som kom fra DDC, De Danske Cybermesterskaber. Han fortalte generelt om cybersikkerheder, og herefter om De Danske Cybermesterskaber. 
+
+Han fortæller at cybersikkerhed handler om at gøre det besværligt at hacke noget. Fordi ALT der kan gå på internet eller bluetooth kan hackes. Hertil fortæller han også at cybersikkerhed aldrig har været vigtigere end det er nu. I fremtidige krige kan cybersikkerhed komme til at spille en kæmpe rolle.
+
+Som sagt kom han også for at lave en lille reklame for De Danske Cybermesterskaber. Han havde selv været finalist ved de danske mesterskaber, og han var kommet for at fortælle os om cybersikkerhed, for at give os en lyst til at deltage og blive interesseret i cybersikkerhed. De Danske Cybermesterskaber holdte masser af online træninger og foredrag optil mesterskaberne. Herefter ville man kunne gå online og deltage i kvalifikationsrunden. Herefter fortsætter mesterskaberne efter: Regionale Mesterskaber -> Nationale Mesterskaber -> Bootcamp -> Landsholdet. 
