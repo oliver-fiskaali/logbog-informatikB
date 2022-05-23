@@ -216,3 +216,20 @@ Og til dette projekt havde vi også et trello og et github-link:
 https://trello.com/invite/b/jZvU7kOe/76a0a1bfa92da189ca3753977798faaf/isstracker
 
 https://github.com/emiln2002/ISS_tracker
+
+# **Datavisualisering af 19htxcr Studietur 2021**
+
+**Indledning**
+
+På vores klasse-studietur kom benene virkelig på arbejde for programmeringsklassen. På vores studietur fik vi til opgave at samle data over hvor langt vi havde gået. Over studieturens 5 dage, endte vi med at have gået mere end 73.000 skridt. Dermed fik vi så til opgave at “fortælle historien om studieturen”, ved at lave et program der visualiserede vores data. Helt klart mere passende for en programmeringsklasse, end at gå 73.000 skridt. 
+
+**Opgaven**
+
+Data:
+
+![image](https://user-images.githubusercontent.com/62875658/169883895-af7112f5-5733-4430-b94c-4d90b4a6c666.png)
+
+Program:
+
+![image](https://user-images.githubusercontent.com/62875658/169883948-5e84fb8b-2c4e-426c-8968-fd3216ae31e9.png)
+
