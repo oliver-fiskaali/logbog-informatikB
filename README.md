@@ -233,3 +233,24 @@ Program:
 
 ![image](https://user-images.githubusercontent.com/62875658/169883948-5e84fb8b-2c4e-426c-8968-fd3216ae31e9.png)
 
+# **Droner Episode II - Attack of the Drones**
+
+**Indledning**
+
+Til sidst i Informatik B, vendte vi tilbage med tello-droner. Denne gang dog med et helt andet formål...
+
+Da vi tidligere arbejdede med droner, prøvede vi at gøre det nemmere for os selv ved at bygge controllere til at styre dem. Denne gang skal vi dog ikke bruge nogen controller. Vi bruger i stedet face recognition, og derefter går til angreb mod alle de ansigter som kan opfanges af dronen.
+
+**Opgaven**
+
+Trods de store ambitioner om at kunne angribe ansigter med vores droner, fandt vi hurtigt ud af at det var lidt svært at arbejde med computervision. Vi udarbejdede følgende skitse for projektet:
+
+![image](https://user-images.githubusercontent.com/62875658/169885496-0ba703a6-79a7-45f8-930e-4b453a516e44.png)
+
+Vores overordnede idé med projektet var at lade dronen flyve rundt og så når den opfangede et ansigt, ville den gå til angreb i mod det, altså flyve direkte mod det. Som sagt havde vi nogle problemer med koden. Vi kunne godt få dronen til at "recognize" et ansigt gennem kameraet, men vi kunne ikke få dronen til at angribe. :(
+
+Vi brugte kode fra følgende link:
+
+https://github.com/shantnu/FaceDetect
+
+
