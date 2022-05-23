@@ -208,6 +208,7 @@ Vi valgte at hente data fra et tidligere IFTTT-projekt vi har lavet i Digital In
 ![image](https://user-images.githubusercontent.com/62875658/169882275-15f89e26-6447-4581-939c-7f4f3c602061.png)
 
 Og et flowchart:
+
 ![image](https://user-images.githubusercontent.com/62875658/169882349-f2a57418-94e6-4b41-9798-dd239c9f8db3.png)
 
 
