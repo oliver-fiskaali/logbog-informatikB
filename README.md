@@ -195,3 +195,18 @@ Enumeration: Enumeration er processen at udtrække data fra et system. Hertil ha
 Foothold: At etablere et Foothold indebærer at man holder kontrol over et system. Det handler om at holde en position, som kan arbejdes videre fra.
 
 Escalation: Escalation er at udnytte en fejl eller design flaw i et system, til at få adgang til informationer, som normalt er gemt for brugeren.
+
+# **Databehandling og præsentation på web**
+
+**Opgave-indledning**
+
+Denne opgave var til for at teste vores programmerings-, databehandlings- og formidlingsevner. Alt i alt mener vi at vi har styr på disse evner, MEN vi mangler nogle evner inden for bedømmelse af tid. Vi fik nemlig lavet en god del af opgaven, men vi havde bare ikke nok tid til at afslutte projektet helt af.
+
+**Opgaven**
+
+Vi valgte at hente data fra et tidligere IFTTT-projekt vi har lavet i Digital Interaktion. Her hentede vi data omkring ISS. Vores plan for dette projekt var at vi ville lave en database, hvor vi kunne se om ISS er synlig og hvor mange gange på ugen den havde været synlig. Hertil havde vi en skitse over hvordan vi ville have vores projekt til at se ud:
+![image](https://user-images.githubusercontent.com/62875658/169882275-15f89e26-6447-4581-939c-7f4f3c602061.png)
+Og et flowchart:
+![image](https://user-images.githubusercontent.com/62875658/169882349-f2a57418-94e6-4b41-9798-dd239c9f8db3.png)
+
+
