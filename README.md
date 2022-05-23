@@ -247,10 +247,14 @@ Trods de store ambitioner om at kunne angribe ansigter med vores droner, fandt v
 
 ![image](https://user-images.githubusercontent.com/62875658/169885496-0ba703a6-79a7-45f8-930e-4b453a516e44.png)
 
-Vores overordnede idé med projektet var at lade dronen flyve rundt og så når den opfangede et ansigt, ville den gå til angreb i mod det, altså flyve direkte mod det. Som sagt havde vi nogle problemer med koden. Vi kunne godt få dronen til at "recognize" et ansigt gennem kameraet, men vi kunne ikke få dronen til at angribe. :(
-
-Vi brugte kode fra følgende link:
+Vi brugte "face-recognition"-kode fra følgende link:
 
 https://github.com/shantnu/FaceDetect
+
+Og vi fik dronen til at lave et flip hver gang den recognizede et ansigt:
+
+https://www.youtube.com/shorts/BclbOsorQ5M
+
+Hvis vi havde mere tid, havde mulighederne for dette projekt været endeløse. Vi endte med at få den her "face-recognition"-kode til at køre og få den koblet til en funktion, altså at lave det her flip i videoen. Så hvis vi arbejde videre med dette projekt kunne vi højst sandsynligt godt kunne få dronen til at angribe ansigter i stedet for at lave flips. :)
 
 
