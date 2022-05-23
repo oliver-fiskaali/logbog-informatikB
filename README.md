@@ -233,7 +233,7 @@ Program:
 
 ![image](https://user-images.githubusercontent.com/62875658/169883948-5e84fb8b-2c4e-426c-8968-fd3216ae31e9.png)
 
-# **Droner Episode II - Attack of the Drones**
+# **Droner... Episode II - Attack of the Drones**
 
 **Indledning**
 
